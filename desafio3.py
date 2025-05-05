@@ -12,9 +12,9 @@ def desafio3 (num):
 numero = int(input("Insira um número:"))
 print(desafio3(numero))
 
-# 1) Não.
+# 1) Não. Basta testar um número muito grande.
 # 2) Não. 17 dá 12 passos e o número 14 dá 17 passos.
-# 3) Não.
+# 3) Não. Para n = 3: 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1
 # 4) Não, o 9 leva 19 iterações.
 # 5) O número 1024 tem 10.
 
