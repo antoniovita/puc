@@ -34,3 +34,8 @@ def questao3(n):
     aster = "*" * int(duzias)
     hashtag = "#" * excedente
     print( f"{aster}{hashtag}")
+
+
+t = 'biobanana'
+s = 'an'  
+print(t.find(s))  
