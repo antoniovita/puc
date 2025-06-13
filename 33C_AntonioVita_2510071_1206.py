@@ -23,9 +23,9 @@ def mediaAlunos(prova, teste, preocupacoes, notas):
 
     for i in range(len(alunos)):
         media = notaProva[i] * 0.8 + notaTeste[i] * 0.2
-        if media < 4:
+        if notaProva[i] < 4:
             preocupacoes.write(f"{alunos[i]} {media:.2f}\n")
-        elif media > 7:
+        if notaTeste[i] > 7:
             notas.write(f"{alunos[i]} {media:.2f}\n")
 
 mediaAlunos(p1, t1, preocupacoesArq, notasArq)
