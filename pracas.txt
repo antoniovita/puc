@@ -1,0 +1,14 @@
+Praca das Palmeiras,6
+Praca Joao Cabral,4
+Praca do Sol,5
+Praca dos Sabores,3
+Praca Central,5
+Praca do Lago,4
+Praca Nova Esperanca,6
+Praca Bela Vista,3
+Praca da Cultura,4
+Praca do Coreto,5
+Praca do Mercado,4
+Praca do Parque,6
+Praca das Flores,3
+Praca do Encontro,5
